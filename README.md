@@ -1,2 +1,3 @@
-# proa-bower
+# Proa Bower
+
 Bower testings.
